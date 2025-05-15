@@ -15,4 +15,4 @@ This is a repository to keep track of my progress during the MLOps Zoomcamp cour
 - Course overview
 - Environment preparation
 - Homework
-- [More details](Homework.ipynb)
+- [More details](01-intro/Homework-1.ipynb)
