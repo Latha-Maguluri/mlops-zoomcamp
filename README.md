@@ -1,4 +1,4 @@
-# mlops-zoomcamp2024
+# mlops-zoomcamp2025
 <div align="center">
   <img src="https://github.com/DataTalksClub/mlops-zoomcamp/blob/main/images/IMG_20230323_134059_927.png" alt="MLOps Zoomcamp Banner" width="100%">
 </div>
