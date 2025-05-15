@@ -173,4 +173,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 *.ipynb_checkpoints/
-project1
+project1.txt
