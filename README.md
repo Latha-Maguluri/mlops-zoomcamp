@@ -16,3 +16,13 @@ This is a repository to keep track of my progress during the MLOps Zoomcamp cour
 - Environment preparation
 - Homework
 - [More details](01-intro/Homework-1.ipynb)
+
+## Week 2(02-experiment-tracking): Experiment tracking and model management
+- Experiment tracking intro
+- Getting started with MLflow
+- Experiment tracking with MLflow
+- Saving and loading models with MLflow
+- Model registry
+- MLflow in practice
+- Homework
+- [More details](02-Experiment-tracking/homework)
