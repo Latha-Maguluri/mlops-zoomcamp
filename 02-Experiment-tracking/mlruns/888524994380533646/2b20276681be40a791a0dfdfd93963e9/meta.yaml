@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/888524994380533646/2b20276681be40a791a0dfdfd93963e9/artifacts
+end_time: 1748248077171
+entry_point_name: ''
+experiment_id: '888524994380533646'
+lifecycle_stage: active
+run_id: 2b20276681be40a791a0dfdfd93963e9
+run_name: treasured-shrew-759
+run_uuid: 2b20276681be40a791a0dfdfd93963e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748248076140
+status: 3
+tags: []
+user_id: codespace

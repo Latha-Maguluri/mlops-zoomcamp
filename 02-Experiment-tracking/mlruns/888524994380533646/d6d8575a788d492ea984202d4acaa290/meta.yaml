@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/888524994380533646/d6d8575a788d492ea984202d4acaa290/artifacts
+end_time: 1748248073303
+entry_point_name: ''
+experiment_id: '888524994380533646'
+lifecycle_stage: active
+run_id: d6d8575a788d492ea984202d4acaa290
+run_name: amazing-worm-650
+run_uuid: d6d8575a788d492ea984202d4acaa290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748248069739
+status: 3
+tags: []
+user_id: codespace

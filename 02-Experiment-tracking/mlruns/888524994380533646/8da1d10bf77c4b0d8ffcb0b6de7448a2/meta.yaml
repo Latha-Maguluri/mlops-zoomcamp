@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/888524994380533646/8da1d10bf77c4b0d8ffcb0b6de7448a2/artifacts
+end_time: 1748248032042
+entry_point_name: ''
+experiment_id: '888524994380533646'
+lifecycle_stage: active
+run_id: 8da1d10bf77c4b0d8ffcb0b6de7448a2
+run_name: able-sloth-664
+run_uuid: 8da1d10bf77c4b0d8ffcb0b6de7448a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748248031451
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/888524994380533646/8f06339ca47444cc9279cf406543463e/artifacts
+end_time: 1748248059431
+entry_point_name: ''
+experiment_id: '888524994380533646'
+lifecycle_stage: active
+run_id: 8f06339ca47444cc9279cf406543463e
+run_name: respected-tern-596
+run_uuid: 8f06339ca47444cc9279cf406543463e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748248058495
+status: 3
+tags: []
+user_id: codespace

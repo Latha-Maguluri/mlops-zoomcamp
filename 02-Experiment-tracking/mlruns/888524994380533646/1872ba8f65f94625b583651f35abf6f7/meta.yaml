@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/888524994380533646/1872ba8f65f94625b583651f35abf6f7/artifacts
+end_time: 1748248085774
+entry_point_name: ''
+experiment_id: '888524994380533646'
+lifecycle_stage: active
+run_id: 1872ba8f65f94625b583651f35abf6f7
+run_name: secretive-bat-963
+run_uuid: 1872ba8f65f94625b583651f35abf6f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748248080541
+status: 3
+tags: []
+user_id: codespace

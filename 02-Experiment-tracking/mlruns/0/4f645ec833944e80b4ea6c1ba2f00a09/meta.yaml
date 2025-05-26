@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-Experiment-tracking/mlruns/0/4f645ec833944e80b4ea6c1ba2f00a09/artifacts
+end_time: 1748244165658
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f645ec833944e80b4ea6c1ba2f00a09
+run_name: enchanting-bear-596
+run_uuid: 4f645ec833944e80b4ea6c1ba2f00a09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748244157931
+status: 4
+tags: []
+user_id: codespace

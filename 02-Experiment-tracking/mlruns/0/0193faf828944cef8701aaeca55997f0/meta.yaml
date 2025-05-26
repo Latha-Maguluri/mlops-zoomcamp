@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-Experiment-tracking/mlruns/0/0193faf828944cef8701aaeca55997f0/artifacts
+end_time: 1748245099627
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0193faf828944cef8701aaeca55997f0
+run_name: bouncy-snake-289
+run_uuid: 0193faf828944cef8701aaeca55997f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748245082660
+status: 3
+tags: []
+user_id: codespace

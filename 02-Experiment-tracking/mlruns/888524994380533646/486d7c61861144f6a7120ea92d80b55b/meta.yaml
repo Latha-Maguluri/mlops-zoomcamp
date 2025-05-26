@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/888524994380533646/486d7c61861144f6a7120ea92d80b55b/artifacts
+end_time: 1748248031001
+entry_point_name: ''
+experiment_id: '888524994380533646'
+lifecycle_stage: active
+run_id: 486d7c61861144f6a7120ea92d80b55b
+run_name: selective-turtle-576
+run_uuid: 486d7c61861144f6a7120ea92d80b55b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748248023075
+status: 3
+tags: []
+user_id: codespace

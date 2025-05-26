@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/888524994380533646/ac623de204704ee8ad41cec452854d0d/artifacts
+end_time: 1748248031438
+entry_point_name: ''
+experiment_id: '888524994380533646'
+lifecycle_stage: active
+run_id: ac623de204704ee8ad41cec452854d0d
+run_name: rare-sheep-855
+run_uuid: ac623de204704ee8ad41cec452854d0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748248031019
+status: 3
+tags: []
+user_id: codespace

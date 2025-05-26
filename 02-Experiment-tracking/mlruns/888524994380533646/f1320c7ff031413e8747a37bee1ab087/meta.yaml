@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/888524994380533646/f1320c7ff031413e8747a37bee1ab087/artifacts
+end_time: 1748248076127
+entry_point_name: ''
+experiment_id: '888524994380533646'
+lifecycle_stage: active
+run_id: f1320c7ff031413e8747a37bee1ab087
+run_name: bouncy-ray-221
+run_uuid: f1320c7ff031413e8747a37bee1ab087
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748248073324
+status: 3
+tags: []
+user_id: codespace

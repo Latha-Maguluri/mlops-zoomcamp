@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/888524994380533646/fca9352f695545cfa0875c99a0ed11f3/artifacts
+end_time: 1748248058482
+entry_point_name: ''
+experiment_id: '888524994380533646'
+lifecycle_stage: active
+run_id: fca9352f695545cfa0875c99a0ed11f3
+run_name: beautiful-stork-305
+run_uuid: fca9352f695545cfa0875c99a0ed11f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748248049407
+status: 3
+tags: []
+user_id: codespace

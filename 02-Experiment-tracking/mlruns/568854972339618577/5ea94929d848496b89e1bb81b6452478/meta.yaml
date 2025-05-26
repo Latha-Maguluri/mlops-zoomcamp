@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/568854972339618577/5ea94929d848496b89e1bb81b6452478/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '568854972339618577'
+lifecycle_stage: active
+run_id: 5ea94929d848496b89e1bb81b6452478
+run_name: gentle-perch-758
+run_uuid: 5ea94929d848496b89e1bb81b6452478
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748249238539
+status: 1
+tags: []
+user_id: codespace

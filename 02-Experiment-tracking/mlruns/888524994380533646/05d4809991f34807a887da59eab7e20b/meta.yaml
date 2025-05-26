@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/888524994380533646/05d4809991f34807a887da59eab7e20b/artifacts
+end_time: 1748248065095
+entry_point_name: ''
+experiment_id: '888524994380533646'
+lifecycle_stage: active
+run_id: 05d4809991f34807a887da59eab7e20b
+run_name: able-vole-815
+run_uuid: 05d4809991f34807a887da59eab7e20b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748248059447
+status: 3
+tags: []
+user_id: codespace
